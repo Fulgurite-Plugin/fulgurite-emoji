@@ -24,7 +24,7 @@ var __plugin = (() => {
     default: () => main_default
   });
 
-  // ../node_modules/gemoji/index.js
+  // node_modules/gemoji/index.js
   var nameToEmoji = {
     100: "\u{1F4AF}",
     1234: "\u{1F522}",
