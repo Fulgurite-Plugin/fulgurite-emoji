@@ -4,6 +4,7 @@
   "version": "0.1.0",
   "description": "Turns :shortcodes: into emoji as you type, like GitHub",
   "repository": "https://github.com/Fulgurite-Plugin/emoji",
+  "license": "MIT",
   "main": "main.js",
   "isDesktopOnly": false,
   "private": true,
