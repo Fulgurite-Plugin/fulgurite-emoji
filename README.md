@@ -6,4 +6,4 @@ names are GitHub's ([gemoji](https://github.com/wooorm/gemoji)).
 
 ## Development
 
-See [api](https://github.com/Fulgurite-Plugin/api).
+See [api](https://github.com/Fulgurite-Plugin/fulgurite-api).
